@@ -121,7 +121,7 @@ A simplified ERD of the tables is presented to get a better idea of the data and
 
 In order to deploy this model into production the process above should be automated with an orchestrator like airflow and an architecture is proposed:
 
-![alt text](graphs&presentation/neoConsulting.png)
+![AWS architecture](https://drive.google.com/uc?export=view&id=1oQmwpSplhVRPaqWNdAXtcXwt07tFF3Bg)
 
 ## 📦 Dependencies
 See requirements.txt for full list. Key packages:
